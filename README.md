@@ -1,4 +1,2 @@
 # hello-world
-just for fun
-Hi humans
-I like you, I like github
+This is the first github project for SAS
